@@ -42,5 +42,5 @@ Animation with pure CSS & P5.js
 </p>
 
 <!-- status bar -->
-  <img src="https://github-readme-stats.vercel.app/api?username=belugastar&layout=compact&show_icons=true&theme=vue&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=belugastar&layout=compact&theme=vue&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=naeunkim1&layout=compact&show_icons=true&theme=vue&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naeunkim1&layout=compact&theme=vue&hide_border=true" />

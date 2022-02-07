@@ -4,7 +4,7 @@
 ## About me
 
 :four_leaf_clover: I'm currently learning Basic Programming skills like Python, HTML, CSS and Javascript.<br/>
-:pencil: Sometimes I write articles on [Medium](https://medium.com/) <br/>
+:pencil: Sometimes I write articles on [velog](https://bettersilver.log/) <br/>
 :postbox: How to reach me: naeunkim0119@gmail.com
 
 ## Interest

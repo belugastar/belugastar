@@ -5,7 +5,7 @@
 
 :four_leaf_clover: I'm currently learning Basic Programming skills like Python, HTML, CSS and Javascript.<br/>
 :pencil: Sometimes I write articles on [Medium](https://medium.com/) <br/>
-:postbox: How to reach me: holmes0119@ewhain.net
+:postbox: How to reach me: naeunkim0119@gmail.com
 
 ## Interest
 web development <br/>

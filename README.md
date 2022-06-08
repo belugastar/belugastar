@@ -1,4 +1,4 @@
-### Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="10px">
+### Hi there! 
 ### I am Kim!, I'm a beginner Developer from :kr: Seoul, Republic of Korea
 
 ## About me

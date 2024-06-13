@@ -8,8 +8,7 @@
 :postbox: How to reach me: naeunkim0119@gmail.com
 
 ## Interest
-web development <br/>
-Animation with pure CSS & P5.js
+computer vision
 
 ## Latest Projects
 

@@ -1,5 +1,3 @@
-### Hi there! 
-### I am Kim!, I'm a beginner Developer from :kr: Seoul, Republic of Korea
 
 ## About me
 
